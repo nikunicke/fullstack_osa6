@@ -1,1 +1,1 @@
-# fullstack osa 7
+# fullstack osa 6
